@@ -6,9 +6,9 @@
 - 🤔 CSS{;},
 - 💬 {JS},
 - 💎 {.NodeJS.},
-- 📫 How to reach me: ...
+- 📫 Email: pireshugo737@gmail.com
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: ...
+- ⚡ Sempre no aprendizado!
 
  <div>
   <a href="https://github.com/vitorsantos920">
