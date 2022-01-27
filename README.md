@@ -1,11 +1,10 @@
 ### Hello World...again! Eu sou o Vitor Santos 📌
 
-- 🔭 Atualmente estou cursando Ensino Técnico em Informática,
-- 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End && Back-End,
+- 🔭 Formado em Técnico em Informática,
+- 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End,
 - 🎈 <\HTML/>,
-- 🤔 CSS{;},
+- 🤔 {CSS;},
 - 💬 {JS},
-- 💎 {.NodeJS.},
 - 📫 Email: pireshugo737@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Sempre no aprendizado!
