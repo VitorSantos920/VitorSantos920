@@ -1,14 +1,16 @@
 ### Hello World...again! Eu sou o Vitor Santos 📌
 
 - 🔭 Formado em Técnico em Informática,
-- 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End,                           <img src="https://br.pinterest.com/pin/846676798695985439/" alt="computer-img>
+- 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End,                           
 - 🎈 <\HTML/>,
 - 🤔 {CSS;},
 - 💬 {JS},
 - 📫 Email: pireshugo737@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Sempre no aprendizado!
-
+<div style="float: right;">
+  <img src="https://br.pinterest.com/pin/846676798695985439/" alt="computer-img">
+ </div>
  <div>
   <a href="https://github.com/vitorsantos920">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsantos920&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
