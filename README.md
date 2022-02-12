@@ -1,12 +1,12 @@
 <h1>Hello World...again. Eu sou Vitor Santos! 📌</h1>
 -> 🔭 Formado em Técnico em Informática, <br>
--> 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End, 
--> 🎈 <\HTML/>, 
--> 🤔 {CSS;}, 
--> 💬 {JS}, 
--> 📫 Email: pireshugo737@gmail.com 
--> 😄 Pronouns: Ele/Dele 
--> ⚡ Sempre no aprendizado!
+-> 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End, <br>
+-> 🎈 <\HTML/>, <br>
+-> 🤔 {CSS;}, <br>
+-> 💬 {JS}, <br>
+-> 📫 Email: pireshugo737@gmail.com <br>
+-> 😄 Pronouns: Ele/Dele <br>
+-> ⚡ Sempre no aprendizado! <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> || 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> || 
