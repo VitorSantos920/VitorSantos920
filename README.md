@@ -9,7 +9,7 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Sempre no aprendizado!
 <div style="float: right;">
-  <img src="https://br.pinterest.com/pin/846676798695985439/" alt="computer-img">
+  <img src="https://i.pinimg.com/564x/d6/04/e3/d604e32f179c38a924fff27fc11281c8.jpg" alt="computer-img">
  </div>
  <div>
   <a href="https://github.com/vitorsantos920">
