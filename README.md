@@ -1,5 +1,5 @@
   Hello World...again! Eu sou o Vitor Santos 📌
-    - 🔭 Formado em Técnico em Informática,
+    - 🔭 Formado em Técnico em Informática, <br>
     - 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End,                           
     - 🎈 <\HTML/>,
     - 🤔 {CSS;},
