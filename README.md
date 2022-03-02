@@ -1,5 +1,6 @@
 <h1>Hello World...again. Eu sou Vitor Santos!👋 </h1>
-<h3 style="color: red;"> Bem-vindos ao meu perfil do Github. </h3>
+<h3> Bem-vindos ao meu perfil do Github. </h3>
+➣ 💻 Análise e Desenvolvimento de Sistemas, <br>
 ➣ 🔭 Formado em Técnico em Informática, <br>
 ➣ 🌱 Estudando e focado em aprender Desenvolvimento Web => Front-End, <br>
 ➣ 🎈 <\HTML/>, <br>
