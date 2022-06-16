@@ -62,10 +62,5 @@
 
 ###
  ![Snake animation](https://github.com/vitorsantos920/vitorsantos920/blob/output/github-contribution-grid-snake.svg)
- 
-###
-<img align="left" src="https://profile-counter.glitch.me/VitorSantos920/count.svg?"  />
-
-###
   
 
