@@ -48,7 +48,7 @@
 
 <div align="left">
   <img height="60" src="https://cdn-icons-png.flaticon.com/512/882/882702.png"  />
-  <img height="60" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"  />
+  <img height="60" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"  style="margin-left: 30px"/>
 </div>
 
 ###
