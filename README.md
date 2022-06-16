@@ -48,6 +48,9 @@
 <div align="left">
   <img height="60" src="https://cdn-icons-png.flaticon.com/512/882/882702.png"  />
 </div>
+<div align="left">
+  <img height="60" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"  />
+</div>
 
 ###
 <h2 align="left">My contacts</h2>
