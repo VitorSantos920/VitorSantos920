@@ -4,7 +4,7 @@
 <h2 align="left">About me...</h2>
 
 ###
-<p align="left">⭐| Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS), <br>na Faculdade de Tecnologia (FATEC) de Campinas, e estou no 1° Semestre.</p>
+<p align="left">⭐| Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS), <br>na Faculdade de Tecnologia (FATEC) de Campinas, e estou no 3° Semestre.</p>
 
 ###
 <p align="left">👨‍💻 | Formado desde 2021 em Técnico em Informática pela <br>Escola Salesiana São José (ESSJ) de Campinas.</p>
