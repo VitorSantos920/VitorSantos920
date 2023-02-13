@@ -1,9 +1,18 @@
-<h1 align="left">Hello everyone, I'm Vitor Santos!</h1>
+<div width=100% align=center>
 
-###
-<h2 align="left">About me...</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=3000&pause=1000&color=0093FF&center=true&width=435&lines=%3CHello+World%2F%3E;~+Meu+nome+%C3%A9+Vitor+Santos+~;-+Tenho+18+anos+-;%7BSou+apaixonado+pelo+Front-End%7D;%3CBem+vindo+(a)+ao+meu+perfil%2F%3E)](https://git.io/typing-svg)
 
-###
+</div>
+
+<div display=flex width=100% align=center>
+  <img width=45% height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantos920&langs_count=20&layout=compact&theme=tokyonight&hide=Hack&title_color=0093FFFF&text_color=fff&bg_color=0C1116&border_color=0C1116">
+  <img height=200px src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&text_color=fff&icon_color=0093FFFF&title_color=0093FFFF&bg_color=0C1116&border_color=0C1116&username=VitorSantos920"> 
+</div>
+
+<hr/>
+
+<h2 align="left" color: #0C1116>Sobre mim</h2>
+
 <p align="left">⭐| Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS), <br>na Faculdade de Tecnologia (FATEC) de Campinas, e estou no 3° Semestre.</p>
 
 ###
@@ -17,15 +26,9 @@
 
 ###
 <p align="left">💻 |  Amo jogos de computador.</p>
-
+  
 ###
 <p align="left">🎶 | Amo ouvir músicas.</p>
-
-###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&custom_title=ESTATÍSTICAS&username=VitorSantos920" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&custom_title=LINGUAGENS&username=VitorSantos920" height="200" alt="languages graph"  />
-</div>
 
 ###
 <h2 align="left">My main languages</h2>
