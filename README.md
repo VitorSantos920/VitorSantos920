@@ -6,7 +6,8 @@
 
 <div align="center">
   <img width="49%" height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantos920&langs_count=20&layout=compact&theme=tokyonight&hide=Hack&title_color=0093FFFF&text_color=fff&bg_color=0C1116&border_color=0C1116">
-  <img width="41%" height=195px src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&text_color=fff&icon_color=0093FFFF&title_color=0093FFFF&bg_color=0C1116&border_color=0C1116&username=VitorSantos920"> 
+  <img width="41%" height=195px src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&text_color=fff&icon_color=0093FFFF&title_color=0093FFFF&bg_color=0C1116&border_color=0C1116&username=vitorsantos920">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorsantos920&stroke=0093FF&background=0D1117&ring=3382ed&fire=0093FF&currStreakNum=0093FF&currStreakLabel=0093FF&sideNums=0093FF&sideLabels=3382ed&dates=fff&hide_border=true" />
 </div>
 
 <hr />
