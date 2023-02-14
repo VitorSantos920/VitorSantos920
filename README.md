@@ -5,9 +5,8 @@
 </div>
 
 <div align="center">
-  <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantos920&langs_count=20&layout=compact&theme=tokyonight&hide=Hack&title_color=0093FFFF&text_color=fff&bg_color=0C1116&border_color=0C1116">
-  
-  <img height=200px src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&text_color=fff&icon_color=0093FFFF&title_color=0093FFFF&bg_color=0C1116&border_color=0C1116&username=VitorSantos920"> 
+  <img width="49%" height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantos920&langs_count=20&layout=compact&theme=tokyonight&hide=Hack&title_color=0093FFFF&text_color=fff&bg_color=0C1116&border_color=0C1116">
+  <img width="41%" height=195px src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&text_color=fff&icon_color=0093FFFF&title_color=0093FFFF&bg_color=0C1116&border_color=0C1116&username=VitorSantos920"> 
 </div>
 
 <hr />
