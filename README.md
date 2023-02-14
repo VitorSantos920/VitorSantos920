@@ -11,7 +11,7 @@
 
 <hr />
 
-<h2>~ 💙 Sobre mim ~</h2>
+<h2 align="center">~ 💙 Sobre mim ~</h2>
 
 <div width=100%>
    <img align=right height=300px border-radius=50% src="./.github/workflows/programmer.webp">
