@@ -18,7 +18,7 @@
    <img align=right height=290px border-radius=50% src="./.github/workflows/imgIllustration.png">
    <p align="justify">Iniciei no mundo da programação em 2020, no Curso Técnico em Informática, através do Centro Profissional Dom Bosco (CPDB), promovido pela Escola Salesiana São José (ESSJ). Me formei em 2021 com a certeza de onde queria atuar profissionalmente: Desenvolvimento Web Front-End.</p>
    <p align="justify">Desde então, venho aprimorando constantemente minhas habilidades para conquistar minha primeira oportunidade profissional como <b>Desenvolvedor</b>.</p>
-   <p>Em 2022 ingressei na Faculdade de Tecnologia (FATEC) de Campinas, no Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS). E atualmente, estou no 3° semestre.</p>
+   <p>Em 2022 ingressei na Faculdade de Tecnologia (FATEC) de Campinas, no Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS). E atualmente, estou no 5° semestre.</p>
    <p>Desenvolvo constantemente o Inglês, inserindo a língua no meu cotidiano.</p>
 </div>
 
