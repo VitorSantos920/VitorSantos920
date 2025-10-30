@@ -1,6 +1,6 @@
 <div width=100% align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=3000&pause=1000&color=0093FF&center=true&width=435&lines=%3CHello+World%2F%3E;~+Meu+nome+%C3%A9+Vitor+Santos+~;-+Tenho+19+anos+-;%7BSou+apaixonado+pelo+Front-End%7D;%3CBem+vindo+(a)+ao+meu+perfil%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=3000&pause=1000&color=0093FF&center=true&width=435&lines=%3CHello+World%2F%3E;[+Meu+nome+%C3%A9+Vitor+Santos+];[+Tenho+21+anos+];[+Sou+apaixonado+pelo+Front-End+];%3CBem+vindo+(a)+ao+meu+perfil%2F%3E)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,21 +12,20 @@
 
 <hr />
 
-<h2 align="center">~ 💙 Sobre mim ~</h2>
+<h2>[sobre]</h2>
 
 <div width=100%>
    <img align=right height=290px border-radius=50% src="./.github/workflows/imgIllustration.png">
-   <p align="justify">Iniciei no mundo da programação em 2020, no Curso Técnico em Informática, através do Centro Profissional Dom Bosco (CPDB), promovido pela Escola Salesiana São José (ESSJ). Me formei em 2021 com a certeza de onde queria atuar profissionalmente: Desenvolvimento Web Front-End.</p>
-   <p align="justify">Desde então, venho aprimorando constantemente minhas habilidades para conquistar minha primeira oportunidade profissional como <b>Desenvolvedor</b>.</p>
-   <p>Em 2022 ingressei na Faculdade de Tecnologia (FATEC) de Campinas, no Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS). E atualmente, estou no 5° semestre.</p>
-   <p>Desenvolvo constantemente o Inglês, inserindo a língua no meu cotidiano.</p>
+   <p>Apaixonado por tecnologia e suas vertentes em computação, programação e desenvolvimento!</p>
+   <p align="justify">Iniciei no mundo da programação em 2020, no Curso Técnico em Informática, através do Centro Profissional Dom Bosco (CPDB), promovido pela Escola Salesiana São José (ESSJ). Me formei em 2021 com a certeza de onde queria atuar profissionalmente: Desenvolvimento Web, criando soluções que farão diferença verdadeira na vida das pessoas.</p>
+   <p align="justify">Em 2022 ingressei na Faculdade de Tecnologia (FATEC) de Campinas, no Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS), no qual, desde 2024, estou formado.</p>
 </div>
 
 <hr />
 
-<h2 align="center">~ 👨‍💻 Estudando Atualmente ~</h2>
+<h2>[estudando...]</h2>
 
-<div align="center">
+<div>
   <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img height="30px" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
@@ -34,9 +33,9 @@
 
 <hr />
 
-<h2 align="center">~ ⭐ Tecnologias ~</h2>
+<h2>[tecnologias]</h2>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px">
@@ -50,9 +49,9 @@
 </div>
 
 <hr />
-<h2 align="center">~ 🛠 Ferramentas, Ambientes e Desenvolvimento ~</h2>
+<h2>[ferramentas | ambientes | desenvolvimento]</h2>
 
-<div align="center">
+<div>
   <img height="30px" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"  />
   <img height="30px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
   <img height="30px" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117"/>
@@ -63,19 +62,10 @@
 </div>
 
 <hr />
-<h2 align="center">~ ✉ Redes e Contatos ~</h2>
+<h2>[redes | contatos]</h2>
 
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/vitor-santos-3526b7214/" target="_blank"><img height="30px" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
-  <a href="https://discord.gg/;vitu#3555" target="_blank"><img height="30px" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
   <a href="mailto: pireshugo737@gmail.com" target="_blank"><img height="30px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /></a>
-  <a href="https://www.instagram.com/dev.vitu" target="_blank"><img height="30px" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a>
 </div>
-
-<hr />
-<div align="center">
-
- ![Snake animation](https://github.com/vitorsantos920/vitorsantos920/blob/output/github-contribution-grid-snake.svg)
- 
-</div> 
